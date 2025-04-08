@@ -1,4 +1,9 @@
-The following text is the given project specification.
+The evaluation of this project is 30/30L, according to the evaluation criteria specified in the automatic verifier:
+  1) correctness of output
+  2) execution time <= 4,5 sec
+  3) peak memory <= 15 MiB
+
+The following text is the given project specification. 
 
 Prova finale di algoritmi e strutture dati 2023-2024
 
